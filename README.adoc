@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fjr00814263%2Fjenkins.io.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fjr00814263%2Fjenkins.io?ref=badge_shield)
+
 = jenkins.io
 
 This repository is what powers the link:https://jenkins.io/[Jenkins
@@ -10,3 +12,7 @@ automation server].
 If you're interested in contributing to the site, please see our
 link:https://github.com/jenkins-infra/jenkins.io/blob/master/CONTRIBUTING.adoc[Contributing
 document]
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fjr00814263%2Fjenkins.io.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fjr00814263%2Fjenkins.io?ref=badge_large)
